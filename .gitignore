@@ -1,0 +1,5 @@
+backups/
+data/credentials.json
+__pycache__/
+*.pyc
+*.log
